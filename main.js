@@ -407,7 +407,7 @@ icon.addEventListener("click",changes)
                 addlist()
         
             }
-     
+      document.getElementById("allcount").innerHTML= activearr.length + " " + "completed tasks"
             
         
        
