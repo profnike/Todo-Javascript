@@ -45,8 +45,8 @@ body{
     align-items: center;
     border: 1px black solid;
     display: flex;
-    min-width: 450px;
-    max-width: 450px;
+    min-width: 454px;
+    max-width: 454px;
     background-color: white;
     height: 50px;
 }
