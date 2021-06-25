@@ -233,7 +233,8 @@ placeholder{
 @media only screen and (max-width: 375px){
     .smallerphone{ display: flex;
     width:280px;}
-    .list{width:275px}
+    .list{width:275px;
+    outline:none;}
     .inner{display: none;}
    .foot{width: 275px;}
    .outerinput{width: 280px;}
