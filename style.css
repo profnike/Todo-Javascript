@@ -64,7 +64,7 @@ body{
 }
 #sunset{
     align-self: flex-end;
-    margin-bottom: 20px;
+   padding-bottom: 10px;
 }
 #moon{
     align-self: flex-end;
@@ -164,7 +164,7 @@ p{
     color: hsl(234, 11%, 52%);
      }
 .head p{
-    margin:0px 0px;
+    margin:15px 0px;
     color: white;
    
     font-size: xx-large;
