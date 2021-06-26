@@ -67,6 +67,11 @@ body{
     align-self: flex-end;
    padding-bottom: 10px;
 }
+.top-image{
+    align-self: flex-end;
+   padding-bottom: 10px;
+  
+}
 #moon{
     align-self: flex-end;
     visibility: hidden;
@@ -250,6 +255,9 @@ placeholder{
    .list{width: 275px;
     outline: none;}
    .outerinput{width: 280px;
+}
+    #sunset{
+    margin-top: -8px;
 }
    .typearea{min-width: 284px;
 max-width:280px;}
