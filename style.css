@@ -11,7 +11,7 @@ body{
     max-width: 100%;
     font-family: 'Josefin Sans', sans-serif; 
     cursor: pointer;
-    
+     background-size: cover;
     height: auto;
     color:  hsl(237, 14%, 26%)
 }
