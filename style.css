@@ -45,8 +45,8 @@ body{
     align-items: center;
     border: 1px black solid;
     display: flex;
-    min-width: 454px;
-    max-width: 454px;
+    min-width: 554px;
+    max-width: 554px;
     background-color: white;
     height: 50px;
 }
@@ -55,7 +55,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   width: 450px;
+   width: 550px;
    height:auto;
    
     margin: 30px 20px;
@@ -78,8 +78,8 @@ body{
 }
 .head{
     display: flex;
-   max-width: 450px;
-   min-width: 450px;
+   max-width: 550px;
+   min-width: 550px;
     justify-content: space-between;
     color: white;
     font-weight:bold;
@@ -94,7 +94,7 @@ img{
 }
 .list{
     
-  width: 450px;
+  width: 550px;
   
   word-break: break-all;
  
@@ -155,7 +155,7 @@ background-color: purple;
     align-items: center;
     display: flex; 
     justify-content: space-between;
-    width: 445px;
+    width: 545px;
     border-bottom-right-radius: 5px;
    margin:0px 2px;
     
@@ -183,7 +183,7 @@ p{
     
 }
 .head{
-    width: 450px;
+    width: 550px;
 }
 .inner{
     display: flex;
@@ -194,7 +194,7 @@ font-weight: bold;
 .outerinput{
 display: flex;
 justify-content: space-between;
-width: 450px;
+width: 550px;
 border-bottom: 0.5px solid black;
 
 
@@ -230,7 +230,7 @@ placeholder{
     border-top-left-radius:5px ;
     margin-top: 20px;
     background-color: white;
-    width: 454px;
+    width: 554px;
     
     padding: 5px 1px;
     
@@ -238,7 +238,7 @@ placeholder{
 }
 .smallerphone{
     display:none;
-    width: 450px;
+    width: 550px;
     height: 50px;
     background-color: white;
     justify-content: center;
